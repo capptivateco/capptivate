@@ -1,0 +1,1313 @@
+{
+  "animations": [{
+    "appStoreID": "592453480",
+    "title": "City Guides",
+    "animation_name": "NatGeoTest",
+    "categories": ["Arc", "Ease", "Intro", "Loading", "Orbit", "Perspective"],
+    "tags": ["loading", "national geographic", "perspective"]
+  }, {
+    "appStoreID": "403639508",
+    "title": "Path",
+    "animation_name": "Path",
+    "categories": ["Anticipate", "Arc", "Bounce", "Ease", "Scale", "Snap", "Spin", "UI Elements"],
+    "tags": ["actions", "disc", "frisbee", "puck"]
+  }, {
+    "appStoreID": "628677149",
+    "title": "Yahoo! Weather",
+    "animation_name": "WeatherParallax",
+    "categories": ["Parallax", "Transitions"],
+    "tags": ["flickr images", "parallax", "weather"]
+  }, {
+    "appStoreID": "635550325",
+    "title": "DerbyMe",
+    "animation_name": "KDloading",
+    "categories": ["Loading", "Slide"],
+    "tags": ["horses", "kentucky", "loading bar"]
+  }, {
+    "appStoreID": "596961532",
+    "title": "Kickstarter",
+    "animation_name": "KickstarterProfile",
+    "categories": ["Content", "Infographics", "Interactive", "Slide", "Spin", "Stretch", "Zoom"],
+    "tags": ["infographics", "pie chart", "profile"]
+  }, {
+    "appStoreID": "576502633",
+    "title": "Mailbox",
+    "animation_name": "MailboxEmpty",
+    "categories": ["Content", "Fade", "Zoom"],
+    "tags": ["grow and shrink", "inbox", "photo"]
+  }, {
+    "appStoreID": "597851882",
+    "title": "PicLab",
+    "animation_name": "PicLabPicker",
+    "categories": ["Ease", "Instructional", "Interactive", "Slide"],
+    "tags": ["colors", "editable text", "picker"]
+  }, {
+    "appStoreID": "628677149",
+    "title": "Yahoo! Weather",
+    "animation_name": "WeatherBlur",
+    "categories": ["Blur", "Fade", "Infographics", "Slide", "Tracking"],
+    "tags": ["blur", "infographic", "overlay"]
+  }, {
+    "appStoreID": "526619424",
+    "title": "Letterpress",
+    "animation_name": "LetterpressGame",
+    "categories": ["Bounce", "Scale", "Stretch", "Transitions", "Wiggle", "Zoom"],
+    "tags": ["bouncing", "game", "pop", "zoom"]
+  }, {
+    "appStoreID": "592447445",
+    "title": "Vine",
+    "animation_name": "VineMenu",
+    "categories": ["Anticipate", "Drop", "Ease", "Navigation"],
+    "tags": ["menu", "nav", "slide", "video"]
+  }, {
+    "appStoreID": "569077959",
+    "title": "Timehop",
+    "animation_name": "TimehopPull",
+    "categories": ["Anticipate", "Ease", "Illustration", "Pull to Refresh"],
+    "tags": ["dinosaur", "loading", "pull to refresh"]
+  }, {
+    "appStoreID": "519308960",
+    "title": "DIY",
+    "animation_name": "DIYpull",
+    "categories": ["Illustration", "Scale", "Stretch", "Zoom"],
+    "tags": ["fade", "hexagons", "pull to refresh"]
+  }, {
+    "appStoreID": "592453480",
+    "title": "City Guides",
+    "animation_name": "NatGeoWeather",
+    "categories": ["Ease", "Fade", "Infographics", "Parallax", "Slide"],
+    "tags": ["national geographic", "parallax", "weather"]
+  }, {
+    "appStoreID": "592453480",
+    "title": "City Guides",
+    "animation_name": "NatGeoStats",
+    "categories": ["Ease", "Infographics", "Perspective", "Step", "Tracking", "Transitions"],
+    "tags": ["cards", "infographic", "national geographic"]
+  }, {
+    "appStoreID": "628677149",
+    "title": "Yahoo! Weather",
+    "animation_name": "WeatherAnim",
+    "categories": ["Arc", "Blur", "Illustration", "Infographics", "Spin"],
+    "tags": ["infographics", "sun", "weather", "wind"]
+  }, {
+    "appStoreID": "403639508",
+    "title": "Path",
+    "animation_name": "PathShop",
+    "categories": ["Arc", "Content", "Drift", "Loading", "Tracking", "Wiggle"],
+    "tags": ["physics", "shelves", "shop", "stickers"]
+  }, {
+    "appStoreID": "596961532",
+    "title": "Kickstarter",
+    "animation_name": "KickstarterActivity",
+    "categories": ["Collide", "Slide", "UI Elements"],
+    "tags": ["activity feed", "message", "profile picture"]
+  }, {
+    "appStoreID": "526619424",
+    "title": "Letterpress",
+    "animation_name": "LetterpressOK",
+    "categories": ["Content", "Drop", "Ease", "Fade", "Wiggle"],
+    "tags": ["bounce", "falling", "game", "wiggle"]
+  }, {
+    "appStoreID": "526619424",
+    "title": "Letterpress",
+    "animation_name": "LetterpressSubmit",
+    "categories": ["Content", "Drop", "Ease", "Fade", "Loading", "Pulse"],
+    "tags": ["bounce", "game", "wiggle"]
+  }, {
+    "appStoreID": "948867534",
+    "title": "Timeline",
+    "animation_name": "TimelinesTransition",
+    "categories": ["Anticipate", "Content", "Ease", "Transitions"],
+    "tags": ["timeline", "transition to detail"]
+  }, {
+    "appStoreID": "534257633",
+    "title": "Lapka",
+    "animation_name": "Lapka",
+    "categories": ["Bounce", "Collide", "Drop", "Ease", "Interactive", "Perspective", "UI Elements"],
+    "tags": ["blocks", "drawer", "gravity", "stones"]
+  }, {
+    "appStoreID": "571041935",
+    "title": "Expereal",
+    "animation_name": "Expereal",
+    "categories": ["Illustration", "Infographics", "Morph", "Scale", "Tracking"],
+    "tags": ["circular slider", "mood", "watercolor"]
+  }, {
+    "appStoreID": "519308960",
+    "title": "DIY",
+    "animation_name": "DIYskills",
+    "categories": ["Ease", "Flip", "Pull to Refresh", "Slide", "Spin"],
+    "tags": ["hexagons", "pull to refresh", "table"]
+  }, {
+    "appStoreID": "519308960",
+    "title": "DIY",
+    "animation_name": "DIYjoin",
+    "categories": ["Illustration", "Instructional", "Orbit", "Scale", "Slide", "Transitions"],
+    "tags": ["avatars", "illustrations", "rotate"]
+  }, {
+    "appStoreID": "628148586",
+    "title": "Currency",
+    "animation_name": "Currency",
+    "categories": ["Bounce", "Collide", "Content", "Drop", "Fade", "Infographics", "Scale"],
+    "tags": ["bounce", "edge collide", "fade"]
+  }, {
+    "appStoreID": "542875991",
+    "title": "Solar",
+    "animation_name": "SolarPinch",
+    "categories": ["Fade", "Navigation", "Tracking", "Zoom"],
+    "tags": ["color fade", "gradient", "pinch zoom", "weather"]
+  }, {
+    "appStoreID": "542875991",
+    "title": "Solar",
+    "animation_name": "SolarRain",
+    "categories": ["Infographics", "Morph", "Spin", "Tracking", "UI Elements"],
+    "tags": ["gradient", "infographic", "weather"]
+  }, {
+    "appStoreID": "542875991",
+    "title": "Solar",
+    "animation_name": "SolarSlide",
+    "categories": ["Fade", "Parallax", "Tracking", "Transitions"],
+    "tags": ["color", "fade", "gradient", "weather"]
+  }, {
+    "appStoreID": "572236506",
+    "title": "Ribbon",
+    "animation_name": "RibbonDate",
+    "categories": ["Arc", "Flip", "Fold", "Interactive", "Orbit", "Tracking", "UI Elements"],
+    "tags": ["calendar", "dial", "fold over", "rotate"]
+  }, {
+    "appStoreID": "599114150",
+    "title": "Sunrise",
+    "animation_name": "SunriseSwipe",
+    "categories": ["Snap", "Spin", "Tracking", "UI Elements"],
+    "tags": ["calendar", "date", "pointer", "puck"]
+  }, {
+    "appStoreID": "599114150",
+    "title": "Sunrise",
+    "animation_name": "SunriseStep",
+    "categories": ["Ease", "Fade", "Scale", "Step", "Transitions"],
+    "tags": ["perspective", "screen transition", "step back"]
+  }, {
+    "appStoreID": "505799171",
+    "title": "Task",
+    "animation_name": "TaskAdd",
+    "categories": ["Content", "Ease", "Fold", "Slide", "Snap", "Transitions"],
+    "tags": ["bounce", "folding animation", "list"]
+  }, {
+    "appStoreID": "505799171",
+    "title": "Task",
+    "animation_name": "TaskTime",
+    "categories": ["Content", "Fold", "UI Elements"],
+    "tags": ["bounce", "folding animation", "list", "slide"]
+  }, {
+    "appStoreID": "530911645",
+    "title": "Lift",
+    "animation_name": "LiftButton",
+    "categories": ["Anticipate", "Drop", "Morph", "Pulse", "Scale", "UI Elements"],
+    "tags": ["big button", "pacific helm", "press"]
+  }, {
+    "appStoreID": "632285588",
+    "title": "Dots",
+    "animation_name": "DotsComplete",
+    "categories": ["Bounce", "Content", "Drop", "Ease", "Illustration", "Interactive", "Pulse", "Slide", "Snap"],
+    "tags": ["box", "game", "snap into place"]
+  }, {
+    "appStoreID": "632285588",
+    "title": "Dots",
+    "animation_name": "DotsDrop",
+    "categories": ["Bounce", "Content", "Drop", "Ease", "Slide", "Snap", "Transitions", "UI Elements"],
+    "tags": ["animate on", "bounce", "game"]
+  }, {
+    "appStoreID": "632285588",
+    "title": "Dots",
+    "animation_name": "DotsMenu",
+    "categories": ["Bounce", "Drop", "Navigation", "Slide", "Squash"],
+    "tags": ["drop in", "game", "menu"]
+  }, {
+    "appStoreID": "577232024",
+    "title": "Lumosity",
+    "animation_name": "LuminosityGameOut",
+    "categories": ["Bounce", "Drop", "Ease", "Fade", "Infographics", "Pulse", "Scale", "Transitions", "UI Elements", "Zoom"],
+    "tags": ["brain training", "games", "scale"]
+  }, {
+    "appStoreID": "577232024",
+    "title": "Lumosity",
+    "animation_name": "LuminosityGameStart",
+    "categories": ["Bounce", "Ease", "Instructional", "Loading", "Parallax", "Pulse", "Scale", "Slide"],
+    "tags": ["bounce", "brain training", "slide"]
+  }, {
+    "appStoreID": "597382937",
+    "title": "Foresee",
+    "animation_name": "Foresee",
+    "categories": ["Bounce", "Infographics", "Parallax", "Slide", "Snap", "Tracking", "UI Elements"],
+    "tags": ["activities", "best time of day", "weather"]
+  }, {
+    "appStoreID": "520338005",
+    "title": "Just Landed",
+    "animation_name": "JustLandedSlide",
+    "categories": ["Content", "Drop", "Ease", "Illustration", "Parallax"],
+    "tags": ["airplane", "parallaxing clouds"]
+  }, {
+    "appStoreID": "520338005",
+    "title": "Just Landed",
+    "animation_name": "JustLandedFlip",
+    "categories": ["Flip", "Transitions"],
+    "tags": ["airplane", "info", "screen flip"]
+  }, {
+    "appStoreID": "602063022",
+    "title": "Albumatic",
+    "animation_name": "AlbumaticScroll",
+    "categories": ["Content", "Parallax", "Slide"],
+    "tags": ["album", "for griff", "photo grid"]
+  }, {
+    "appStoreID": "493136154",
+    "title": "Clear",
+    "animation_name": "ClearPinchOpen",
+    "categories": ["Content", "Fold", "Interactive", "Slide", "Snap", "Tracking"],
+    "tags": ["folding animation", "pinch open", "tasks"]
+  }, {
+    "appStoreID": "493136154",
+    "title": "Clear",
+    "animation_name": "ClearPull",
+    "categories": ["Fold", "Pull to Refresh", "Snap", "Tracking"],
+    "tags": ["folding animation", "pull to create"]
+  }, {
+    "appStoreID": "493136154",
+    "title": "Clear",
+    "animation_name": "ClearLists",
+    "categories": ["Slide", "Squash", "Tracking", "Transitions"],
+    "tags": ["lists", "sliding", "stacking", "tasks"]
+  }, {
+    "appStoreID": "472735836",
+    "title": "Everplaces",
+    "animation_name": "EverplacesParallax",
+    "categories": ["Parallax", "Slide", "Tracking", "UI Elements"],
+    "tags": ["pull to view more", "yelp effect"]
+  }, {
+    "appStoreID": "454869181",
+    "title": "Ness",
+    "animation_name": "NessSwitch",
+    "categories": ["Bounce", "Drop", "Loading", "Pulse", "Transitions", "UI Elements"],
+    "tags": ["complex", "context", "map view", "profile pic"]
+  }, {
+    "appStoreID": "454869181",
+    "title": "Ness",
+    "animation_name": "NessSwipe",
+    "categories": ["Interactive", "Scale", "Slide", "Transitions"],
+    "tags": ["cover flow", "focus", "pagination"]
+  }, {
+    "title": "LunchBox",
+    "animation_name": "LunchBounce",
+    "categories": ["Collide", "Content", "Drift"],
+    "tags": ["bottle rocket", "not in app store", "prototype"]
+  }, {
+    "title": "LunchBox",
+    "animation_name": "LunchTimeset",
+    "categories": ["Infographics", "Snap", "Spin", "UI Elements"],
+    "tags": ["bottle rocket", "clock face", "rotation"]
+  }, {
+    "title": "LunchBox",
+    "animation_name": "LunchRoll",
+    "categories": ["Drop", "Ease", "Slide", "Snap", "Spin", "Transitions", "UI Elements"],
+    "tags": ["add new", "bottle rocket", "roll away"]
+  }, {
+    "appStoreID": "608609424",
+    "title": "Applauze",
+    "animation_name": "ApplauzeDial",
+    "categories": ["Arc", "Drop", "Ease", "Slide", "Snap", "Spin", "Transitions", "UI Elements"],
+    "tags": ["categories", "dial", "selector"]
+  }, {
+    "appStoreID": "517114354",
+    "title": "Circa",
+    "animation_name": "Circa",
+    "categories": ["Curl", "Ease", "Transitions"],
+    "tags": ["page curl animation"]
+  }, {
+    "appStoreID": "573012550",
+    "title": "Roadtrippers",
+    "animation_name": "Roadtrippers",
+    "categories": ["Content", "Curl", "Drop", "Ease", "Loading"],
+    "tags": ["images", "page curl animation"]
+  }, {
+    "appStoreID": "634019463",
+    "title": "Felix News",
+    "animation_name": "FelixParallax",
+    "categories": ["Ease", "Parallax", "Tracking"],
+    "tags": ["happy news", "parallax"]
+  }, {
+    "appStoreID": "634019463",
+    "title": "Felix News",
+    "animation_name": "FelixLaunch",
+    "categories": ["Ease", "Loading", "Scale", "Slide"],
+    "tags": ["happy news", "loading transition"]
+  }, {
+    "appStoreID": "627398518",
+    "title": "Instafeel",
+    "animation_name": "InstafeelProfile",
+    "categories": ["Fold", "Interactive", "Navigation", "Tracking"],
+    "tags": ["emotions", "folding animation", "social"]
+  }, {
+    "appStoreID": "662227880",
+    "title": "Making",
+    "animation_name": "MakingScroll",
+    "categories": ["Bounce", "Content", "Ease", "Fade", "Flip"],
+    "tags": ["flat", "materials", "nike"]
+  }, {
+    "appStoreID": "662227880",
+    "title": "Making",
+    "animation_name": "MakingTransition",
+    "categories": ["Flip", "Scale", "Slide", "Snap", "Transitions"],
+    "tags": ["flat", "grow", "materials", "nike"]
+  }, {
+    "appStoreID": "662227880",
+    "title": "Making",
+    "animation_name": "MakingSwipe",
+    "categories": ["Ease", "Navigation", "Squash", "Stretch", "Tracking", "Wiggle"],
+    "tags": ["materials", "nike", "stripes", "water"]
+  }, {
+    "appStoreID": "660944635",
+    "title": "IFTTT",
+    "animation_name": "IFTTTBlur",
+    "categories": ["Flip", "Snap", "Transitions"],
+    "tags": ["back side", "blur", "flip"]
+  }, {
+    "appStoreID": "660944635",
+    "title": "IFTTT",
+    "animation_name": "IFTTTParallax",
+    "categories": ["Illustration", "Intro", "Parallax", "Scale", "Slide", "Snap"],
+    "tags": ["grow", "move", "parallax", "tutorial"]
+  }, {
+    "appStoreID": "660944635",
+    "title": "IFTTT",
+    "animation_name": "IFTTTIntro",
+    "categories": ["Intro", "Parallax", "Tracking"],
+    "tags": ["bounce", "intro", "tutorial"]
+  }, {
+    "appStoreID": "768223310",
+    "title": "Listen",
+    "animation_name": "ListenVolume",
+    "categories": ["Blur", "Bounce", "Scale", "Slide", "Snap", "Tracking", "UI Elements"],
+    "tags": ["blur", "gestures", "music player"]
+  }, {
+    "appStoreID": "768223310",
+    "title": "Listen",
+    "animation_name": "ListenSongX",
+    "categories": ["Blur", "Bounce", "Scale", "Slide", "Snap", "UI Elements"],
+    "tags": ["gestures", "music player", "songs"]
+  }, {
+    "appStoreID": "768223310",
+    "title": "Listen",
+    "animation_name": "ListenTap",
+    "categories": ["Blur", "Bounce", "Pulse", "Ripple", "Scale", "UI Elements"],
+    "tags": ["blur", "gestures", "music player", "songs"]
+  }, {
+    "appStoreID": "562447652",
+    "title": "Felix for App.net",
+    "animation_name": "FelixADN",
+    "categories": ["Collide", "Perspective", "Snap", "Transitions"],
+    "tags": ["ADN", "App.net", "Felix"]
+  }, {
+    "appStoreID": "517329357",
+    "title": "Dark Sky",
+    "animation_name": "DarkSky",
+    "categories": ["Ease", "Fade", "Infographics", "Slide", "Tracking", "Transitions"],
+    "tags": ["infographics", "slide", "weather"]
+  }, {
+    "appStoreID": "530581828",
+    "title": "Radiolab",
+    "animation_name": "RadioLab",
+    "categories": ["Ease", "Fade", "Illustration", "Navigation", "Parallax", "Perspective", "Scale", "Slide", "Zoom"],
+    "tags": ["cinema", "parallax", "zoom"]
+  }, {
+    "appStoreID": "648287824",
+    "title": "Cal",
+    "animation_name": "CalendarDetail",
+    "categories": ["Ease", "Fade", "Scale", "Slide", "Snap", "Transitions"],
+    "tags": ["calendar", "flat", "photo background"]
+  }, {
+    "appStoreID": "648287824",
+    "title": "Cal",
+    "animation_name": "CalendarDrop",
+    "categories": ["Ease", "Fade", "Parallax", "Slide", "Transitions"],
+    "tags": ["calendar", "flat", "slide"]
+  }, {
+    "appStoreID": "648287824",
+    "title": "Cal",
+    "animation_name": "CalendarSwipe",
+    "categories": ["Parallax", "Slide", "Transitions"],
+    "tags": ["calendar", "flat", "parallax"]
+  }, {
+    "appStoreID": "647758895",
+    "title": "Your Extra Life",
+    "animation_name": "YourExtraProfile",
+    "categories": ["Flip", "Navigation", "Scale", "Slide", "Snap", "UI Elements"],
+    "tags": ["button", "folding animation", "navigation"]
+  }, {
+    "appStoreID": "647758895",
+    "title": "Your Extra Life",
+    "animation_name": "YourExtraChallenge",
+    "categories": ["Ease", "Fade", "Slide", "Transitions"],
+    "tags": ["challenges", "layers"]
+  }, {
+    "appStoreID": "647758895",
+    "title": "Your Extra Life",
+    "animation_name": "YourExtraIntro",
+    "categories": ["Intro", "Loading", "Parallax", "Pulse", "Slide"],
+    "tags": ["intro", "iris", "parallax", "tutorial"]
+  }, {
+    "appStoreID": "635861140",
+    "title": "Spendee",
+    "animation_name": "SpendeeType",
+    "categories": ["Content", "Interactive", "Scale", "Slide", "Tracking"],
+    "tags": ["money", "spending", "text", "tracker"]
+  }, {
+    "appStoreID": "635861140",
+    "title": "Spendee",
+    "animation_name": "SpendeeFlip",
+    "categories": ["Flip", "Ripple", "Transitions"],
+    "tags": ["flip", "ripple effect", "rotate"]
+  }, {
+    "appStoreID": "635861140",
+    "title": "Spendee",
+    "animation_name": "SpendeeGraph",
+    "categories": ["Infographics", "Loading", "Slide", "Spin"],
+    "tags": ["chart", "infographic", "spending"]
+  }, {
+    "appStoreID": "587653192",
+    "title": "Clipchat",
+    "animation_name": "Clipchat",
+    "categories": ["Blur", "Transitions"],
+    "tags": ["bay bridge", "hello", "pixels"]
+  }, {
+    "appStoreID": "481893372",
+    "title": "Evernote Food",
+    "animation_name": "EvernoteFood",
+    "categories": ["Fade", "Slide", "Snap", "Transitions"],
+    "tags": ["cross dissolve", "food", "rolodex"]
+  }, {
+    "appStoreID": "416813139",
+    "title": "Jetsetter",
+    "animation_name": "Jetsetter",
+    "categories": ["Flip", "Orbit", "Parallax", "Transitions", "UI Elements"],
+    "tags": ["flip", "orbit", "travel"]
+  }, {
+    "appStoreID": "649597509",
+    "title": "Grid",
+    "animation_name": "Grid",
+    "categories": ["Pulse", "Scale", "Slide", "Snap", "Stretch", "Tracking", "UI Elements"],
+    "tags": ["grid", "matrix"]
+  }, {
+    "appStoreID": "564157241",
+    "title": "Shine",
+    "animation_name": "Shine",
+    "categories": ["Intro", "Parallax", "Slide"],
+    "tags": ["masking", "parallax intro"]
+  }, {
+    "appStoreID": "654745500",
+    "title": "Boxes",
+    "animation_name": "Boxes",
+    "categories": ["Drift", "Intro", "Loading", "Slide"],
+    "tags": ["intro animation", "opening", "skeuo"]
+  }, {
+    "appStoreID": "632313714",
+    "title": "Kuler",
+    "animation_name": "Kuler",
+    "categories": ["Content", "Interactive", "Slide", "Snap", "Squash"],
+    "tags": ["adobe", "color picker", "themes"]
+  }, {
+    "appStoreID": "544754670",
+    "title": "Memoir",
+    "animation_name": "Memoir",
+    "categories": ["Bounce", "Perspective", "Transitions"],
+    "tags": ["app intro", "perspective"]
+  }, {
+    "appStoreID": "429047995",
+    "title": "Pinterest",
+    "animation_name": "Pinterest",
+    "categories": ["Anticipate", "Arc", "Bounce", "Pulse", "Slide", "UI Elements"],
+    "tags": ["frisbee", "long press"]
+  }, {
+    "appStoreID": "641702337",
+    "title": "Strata",
+    "animation_name": "StrataProdigy",
+    "categories": ["Content", "Drift", "Ease", "Fade", "Instructional", "Interactive", "Pulse", "Slide"],
+    "tags": ["diagonals", "game", "ribbons"]
+  }, {
+    "appStoreID": "641702337",
+    "title": "Strata",
+    "animation_name": "StrataTutorial",
+    "categories": ["Ease", "Fade", "Pulse", "Slide", "UI Elements"],
+    "tags": ["game", "tutorial"]
+  }, {
+    "appStoreID": "641702337",
+    "title": "Strata",
+    "animation_name": "Strata",
+    "categories": ["Ease", "Fade", "Instructional", "Intro", "Loading", "Pulse", "Ripple", "Slide", "Snap"],
+    "tags": ["game", "intro"]
+  }, {
+    "appStoreID": "684970415",
+    "title": "PHQ4",
+    "animation_name": "PHQ4Tours",
+    "categories": ["Drift", "Slide", "Transitions"],
+    "tags": ["bricks", "drift", "parallax", "photos"]
+  }, {
+    "appStoreID": "684970415",
+    "title": "PHQ4",
+    "animation_name": "PHQ4Parallax",
+    "categories": ["Content", "Parallax"],
+    "tags": ["parallax", "photos", "stream"]
+  }, {
+    "appStoreID": "684970415",
+    "title": "PHQ4",
+    "animation_name": "PHQ4Intro",
+    "categories": ["Drift", "Ease", "Loading", "Scale"],
+    "tags": ["bricks", "drift", "parallax", "slide"]
+  }, {
+    "appStoreID": "722294701",
+    "title": "Tweetbot 3",
+    "animation_name": "Tweetbot3Photo",
+    "categories": ["Blur", "Content", "Fade", "Scale", "Transitions", "Zoom"],
+    "tags": ["flick gesture", "twitter client"]
+  }, {
+    "appStoreID": "722294701",
+    "title": "Tweetbot 3",
+    "animation_name": "Tweetbot3Switch",
+    "categories": ["Arc", "Bounce", "Collide", "Drift", "Fade", "Navigation", "Step", "Transitions"],
+    "tags": ["bounce", "physics", "twitter client"]
+  }, {
+    "appStoreID": "722294701",
+    "title": "Tweetbot 3",
+    "animation_name": "Tweetbot3QuickTip",
+    "categories": ["Arc", "Bounce", "Instructional", "Intro", "Wiggle"],
+    "tags": ["bounce", "tutorial", "twitter client"]
+  }, {
+    "appStoreID": "412768094",
+    "title": "Discovr",
+    "animation_name": "Discovr",
+    "categories": ["Arc", "Bounce", "Content", "Drift", "Ease", "Infographics", "Stretch", "Transitions"],
+    "tags": ["connections", "music", "nodes"]
+  }, {
+    "appStoreID": "545425653",
+    "title": "Breezi",
+    "animation_name": "BreeziFan",
+    "categories": ["Arc", "Blur", "Ease", "Fade", "Flip", "Loading", "Navigation", "Slide", "Snap"],
+    "tags": ["fan", "swatches", "weather"]
+  }, {
+    "appStoreID": "389801252",
+    "title": "Instagram",
+    "animation_name": "InstagramLogo",
+    "categories": ["Fade", "Scale", "UI Elements"],
+    "tags": ["logo", "shrinking", "titlebar"]
+  }, {
+    "appStoreID": "720309412",
+    "title": "Taasky",
+    "animation_name": "TaaskyAdd",
+    "categories": ["Content", "Fold", "Interactive", "Slide", "Tracking"],
+    "tags": ["folding animation", "list", "tasks"]
+  }, {
+    "appStoreID": "720309412",
+    "title": "Taasky",
+    "animation_name": "TaaskySingle",
+    "categories": ["Flip", "Transitions"],
+    "tags": ["detail view", "page fold"]
+  }, {
+    "appStoreID": "720309412",
+    "title": "Taasky",
+    "animation_name": "TaaskyMenu",
+    "categories": ["Fold", "Navigation", "Slide", "Spin"],
+    "tags": ["folding animation", "menu icon", "rotate"]
+  }, {
+    "appStoreID": "401626263",
+    "title": "Airbnb",
+    "animation_name": "Airbnb",
+    "categories": ["Blur", "Bounce", "Navigation", "Perspective", "Pulse", "Scale"],
+    "tags": ["perspective", "side menu"]
+  }, {
+    "appStoreID": "669745934",
+    "title": "Potluck",
+    "animation_name": "PotluckIt",
+    "categories": ["Content", "Pulse", "UI Elements", "Wiggle"],
+    "tags": ["drag", "flick", "settle"]
+  }, {
+    "appStoreID": "603334069",
+    "title": "Thinglist",
+    "animation_name": "ThingListAdd",
+    "categories": ["Drop", "Ease", "Fade", "Pulse", "Slide", "Transitions", "UI Elements"],
+    "tags": ["badges", "bounces", "list"]
+  }, {
+    "appStoreID": "419752338",
+    "title": "Zite",
+    "animation_name": "ZiteMenu",
+    "categories": ["Blur", "Collide", "Fade", "Navigation", "Parallax"],
+    "tags": ["bounce", "edge collide", "menu"]
+  }, {
+    "appStoreID": "333903271",
+    "title": "Twitter",
+    "animation_name": "TwitterTrans",
+    "categories": ["Bounce", "Drop", "Ease", "Navigation", "Snap", "Transitions"],
+    "tags": ["bounce", "context", "profile switch"]
+  }, {
+    "appStoreID": "717616629",
+    "title": "Mindie",
+    "animation_name": "MindieMenu",
+    "categories": ["Navigation", "Slide", "Snap"],
+    "tags": ["slide out menu"]
+  }, {
+    "appStoreID": "284910350",
+    "title": "Yelp",
+    "animation_name": "YelpRefresh",
+    "categories": ["Illustration", "Parallax", "Pull to Refresh", "Snap"],
+    "tags": ["cute", "pull to refresh"]
+  }, {
+    "appStoreID": "284910350",
+    "title": "Yelp",
+    "animation_name": "YelpMore",
+    "categories": ["Ease", "Fade", "Morph", "Navigation", "Slide", "Snap", "UI Elements"],
+    "tags": ["list button to x", "more"]
+  }, {
+    "appStoreID": "284910350",
+    "title": "Yelp",
+    "animation_name": "YelpOptions",
+    "categories": ["Anticipate", "Arc", "Blur", "Fade", "Pulse", "Scale", "UI Elements"],
+    "tags": ["frisbee", "options", "puck"]
+  }, {
+    "appStoreID": "784982356",
+    "title": "Yahoo! News Digest",
+    "animation_name": "YahooDigestDone",
+    "categories": ["Bounce", "Loading", "Pulse", "Scale", "Transitions"],
+    "tags": ["circles", "fun facts", "news"]
+  }, {
+    "appStoreID": "784982356",
+    "title": "Yahoo! News Digest",
+    "animation_name": "YahooDigestParallax",
+    "categories": ["Parallax", "Transitions"],
+    "tags": ["news", "parallax", "transition"]
+  }, {
+    "appStoreID": "784982356",
+    "title": "Yahoo! News Digest",
+    "animation_name": "YahooDigestTrans",
+    "categories": ["Blur", "Bounce", "Fade", "Loading", "Navigation", "Pulse", "Scale", "Transitions"],
+    "tags": ["blur", "circle", "news"]
+  }, {
+    "appStoreID": "711280582",
+    "title": "Ultravisual",
+    "animation_name": "UVFollowing",
+    "categories": ["Content", "Scale", "Slide", "Snap"],
+    "tags": ["grow and shrink", "visual"]
+  }, {
+    "appStoreID": "711280582",
+    "title": "Ultravisual",
+    "animation_name": "UVRoom",
+    "categories": ["Ease", "Fade", "Loading", "Orbit", "Slide", "Spin", "Transitions"],
+    "tags": ["perspective", "room", "screen transition"]
+  }, {
+    "appStoreID": "711280582",
+    "title": "Ultravisual",
+    "animation_name": "UVSignIn",
+    "categories": ["Instructional", "Intro", "Morph", "Slide"],
+    "tags": ["intro animation", "masking", "video"]
+  }, {
+    "appStoreID": "586848801",
+    "title": "Interesting",
+    "animation_name": "InterestingLoad",
+    "categories": ["Bounce", "Loading", "Slide", "Squash", "Stretch", "Wiggle"],
+    "tags": ["content", "jelly", "load in"]
+  }, {
+    "appStoreID": "586848801",
+    "title": "Interesting",
+    "animation_name": "InterestingPink",
+    "categories": ["Bounce", "Navigation", "Squash", "Wiggle"],
+    "tags": ["jelly", "jelly nav"]
+  }, {
+    "appStoreID": "751733885",
+    "title": "Directr for Business",
+    "animation_name": "DirectorIntro",
+    "categories": ["Blur", "Intro", "Morph"],
+    "tags": ["blurred video", "movement", "video"]
+  }, {
+    "appStoreID": "690193855",
+    "title": "Noted",
+    "animation_name": "NotedNav",
+    "categories": ["Bounce", "Collide", "Navigation"],
+    "tags": ["firm bounce", "side nav"]
+  }, {
+    "appStoreID": "685652528",
+    "title": "Jelly",
+    "animation_name": "Jelly",
+    "categories": ["Bounce", "Content", "Drop", "Ease", "Interactive", "Tracking"],
+    "tags": ["bounce", "cards", "swipe up"]
+  }, {
+    "appStoreID": "690193855",
+    "title": "Noted",
+    "animation_name": "NotedShards",
+    "categories": ["Collide", "Content", "Drift", "Drop", "Ease", "Interactive", "Tracking"],
+    "tags": ["confetti", "delete", "swipe to delete", "wipe"]
+  }, {
+    "appStoreID": "608188610",
+    "title": "Moldiv",
+    "animation_name": "Moldiv",
+    "categories": ["Bounce", "Ease", "Instructional", "Intro", "Loading", "Scale", "Slide"],
+    "tags": ["photo grids", "side nav", "teaching"]
+  }, {
+    "appStoreID": "609348938",
+    "title": "MeatText",
+    "animation_name": "MeatText",
+    "categories": ["Bounce", "Content", "Illustration", "Pulse", "Wiggle"],
+    "tags": ["illustrations", "location", "mapbox", "nav"]
+  }, {
+    "appStoreID": "789778193",
+    "title": "Epiclist",
+    "animation_name": "EpiclistUI",
+    "categories": ["Drop", "Slide", "Snap", "Transitions", "UI Elements"],
+    "tags": ["drop nav", "puck"]
+  }, {
+    "appStoreID": "533493750",
+    "title": "Timbre",
+    "animation_name": "TimbreEagle",
+    "categories": ["Content", "Fade", "Morph", "Slide", "Snap", "Transitions"],
+    "tags": ["lines", "music", "pop in", "slide"]
+  }, {
+    "appStoreID": "533493750",
+    "title": "Timbre",
+    "animation_name": "TimbreParallax",
+    "categories": ["Content", "Ease", "Fade", "Navigation", "Parallax"],
+    "tags": ["black and white", "diagonal", "slash"]
+  }, {
+    "appStoreID": "533493750",
+    "title": "Timbre",
+    "animation_name": "TimbreNav",
+    "categories": ["Ease", "Navigation", "Slide", "Snap"],
+    "tags": ["black and white", "diagonals", "side nav", "slash"]
+  }, {
+    "appStoreID": "725760130",
+    "title": "Tidy",
+    "animation_name": "UntidySortb",
+    "categories": ["Anticipate", "Ease", "Fade", "Loading", "Pulse", "Slide", "Transitions", "UI Elements"],
+    "tags": ["drop menu", "loading", "photos"]
+  }, {
+    "appStoreID": "725760130",
+    "title": "Tidy",
+    "animation_name": "UntidyTrans",
+    "categories": ["Ease", "Fade", "Flip", "Slide", "Transitions", "UI Elements"],
+    "tags": ["fast transition", "flip", "slide"]
+  }, {
+    "appStoreID": "725760130",
+    "title": "Tidy",
+    "animation_name": "UntidyNav",
+    "categories": ["Blur", "Ease", "Navigation", "Slide", "Spin"],
+    "tags": ["dark nav", "flip x", "rotate"]
+  }, {
+    "appStoreID": "517484130",
+    "title": "Munchery",
+    "animation_name": "Munchery",
+    "categories": ["Anticipate", "Drop", "Ease", "Illustration", "Loading"],
+    "tags": ["drop in menu", "food"]
+  }, {
+    "appStoreID": "767330177",
+    "title": "JamSnap",
+    "animation_name": "JamSnapButton",
+    "categories": ["Fade", "Infographics", "Pulse", "Ripple", "Scale", "UI Elements"],
+    "tags": ["sound", "squiggle", "tags"]
+  }, {
+    "appStoreID": "661150816",
+    "title": "Film Alphabets",
+    "animation_name": "FilmAlphabet",
+    "categories": ["Bounce", "Drop", "Illustration", "Instructional", "Slide", "Snap"],
+    "tags": ["illustration"]
+  }, {
+    "appStoreID": "517329357",
+    "title": "Dark Sky",
+    "animation_name": "DarkSkyTrans",
+    "categories": ["Infographics", "Instructional", "Parallax", "Tracking"],
+    "tags": ["infographics", "minimalist", "weather"]
+  }, {
+    "appStoreID": "517329357",
+    "title": "Dark Sky",
+    "animation_name": "DarkSkyGlobe",
+    "categories": ["Illustration", "Infographics", "Morph", "Perspective", "Spin", "Tracking"],
+    "tags": ["3d", "globe", "sphere", "weather"]
+  }, {
+    "appStoreID": "517329357",
+    "title": "Dark Sky",
+    "animation_name": "DarkSkyIntro",
+    "categories": ["Illustration", "Infographics", "Loading", "Pulse", "Ripple", "Scale"],
+    "tags": ["infographics", "loading", "weather"]
+  }, {
+    "appStoreID": "781817640",
+    "title": "Beats Music",
+    "animation_name": "BeatsTrans",
+    "categories": ["Ease", "Parallax", "Tracking", "Transitions"],
+    "tags": ["beats", "music", "parallax"]
+  }, {
+    "appStoreID": "781817640",
+    "title": "Beats Music",
+    "animation_name": "BeatsGenres",
+    "categories": ["Bounce", "Collide", "Content", "Drift", "Ease", "Illustration", "Interactive", "Scale"],
+    "tags": ["beats", "choices", "circles", "music"]
+  }, {
+    "appStoreID": "781817640",
+    "title": "Beats Music",
+    "animation_name": "BeatsIntro",
+    "categories": ["Content", "Drop", "Instructional", "Intro", "Scale", "Slide"],
+    "tags": ["beats", "intro", "music", "welcome"]
+  }, {
+    "appStoreID": "794163692",
+    "title": "Paper",
+    "animation_name": "PaperSettings",
+    "categories": ["Ease", "Fade", "Parallax", "Slide", "Transitions"],
+    "tags": ["parallax", "settings menu"]
+  }, {
+    "appStoreID": "794163692",
+    "title": "Paper",
+    "animation_name": "PaperCustomize",
+    "categories": ["Content", "Instructional", "Scale", "Slide", "Tracking", "Wiggle"],
+    "tags": ["card UI", "flick", "squishy"]
+  }, {
+    "appStoreID": "794163692",
+    "title": "Paper",
+    "animation_name": "PaperTrans",
+    "categories": ["Content", "Ease", "Flip", "Fold", "Tracking", "Transitions"],
+    "tags": ["folding animation", "shine", "unfold"]
+  }, {
+    "appStoreID": "794163692",
+    "title": "Paper",
+    "animation_name": "PaperNotifications",
+    "categories": ["Bounce", "Content", "Pulse", "Scale", "UI Elements"],
+    "tags": ["loading", "notifications", "shine"]
+  }, {
+    "appStoreID": "794163692",
+    "title": "Paper",
+    "animation_name": "PaperPan",
+    "categories": ["Content", "Interactive", "Orbit", "Parallax", "Slide", "Tracking"],
+    "tags": ["dizzy", "pan photo"]
+  }, {
+    "appStoreID": "794163692",
+    "title": "Paper",
+    "animation_name": "PaperTiles",
+    "categories": ["Content", "Drift", "Ease", "Navigation", "Scale", "Slide", "Tracking"],
+    "tags": ["navigation", "tiles"]
+  }, {
+    "title": "Flappy Bird",
+    "animation_name": "FlappyBird",
+    "categories": ["Bounce", "Collide", "Drop", "Illustration", "Instructional", "Tracking"],
+    "tags": ["bird", "flappy bird", "game", "pixel art"]
+  }, {
+    "appStoreID": "779697486",
+    "title": "Reporter",
+    "animation_name": "Reporter",
+    "categories": ["Ease", "Fade", "Illustration", "Intro", "Scale", "Slide"],
+    "tags": ["quantified self", "reporter"]
+  }, {
+    "appStoreID": "807475678",
+    "title": "Science Today",
+    "animation_name": "ScienceToday",
+    "categories": ["Bounce", "Content", "Ease", "Morph", "Scale", "Slide", "Snap", "Tracking"],
+    "tags": ["photo cells", "science"]
+  }, {
+    "appStoreID": "589625334",
+    "title": "Yummly",
+    "animation_name": "YummlySearch",
+    "categories": ["Drop", "Ease", "Snap", "Transitions", "UI Elements"],
+    "tags": ["cooking", "recipes", "search"]
+  }, {
+    "appStoreID": "589625334",
+    "title": "Yummly",
+    "animation_name": "YummlyNav",
+    "categories": ["Drop", "Ease", "Fold", "Navigation", "Slide", "Snap"],
+    "tags": ["folding animation", "nav", "recipes"]
+  }, {
+    "appStoreID": "589625334",
+    "title": "Yummly",
+    "animation_name": "YummlyYum",
+    "categories": ["Content", "Morph", "Scale", "Spin", "UI Elements"],
+    "tags": ["recipe", "UI", "yum"]
+  }, {
+    "appStoreID": "776314791",
+    "title": "Peek Calendar",
+    "animation_name": "PeekChange",
+    "categories": ["Infographics", "Slide", "Snap", "Tracking", "UI Elements"],
+    "tags": ["calendar", "data entry"]
+  }, {
+    "appStoreID": "776314791",
+    "title": "Peek Calendar",
+    "animation_name": "PeekFold",
+    "categories": ["Content", "Drop", "Fold", "Infographics"],
+    "tags": ["calendar", "folding animation"]
+  }, {
+    "appStoreID": "776314791",
+    "title": "Peek Calendar",
+    "animation_name": "PeekPTR",
+    "categories": ["Interactive", "Squash", "Stretch", "Tracking", "UI Elements"],
+    "tags": ["pull to refresh", "squash and stretch"]
+  }, {
+    "appStoreID": "775307543",
+    "title": "Secret",
+    "animation_name": "SecretSparkle",
+    "categories": ["Content", "Fade"],
+    "tags": ["sparkle text"]
+  }, {
+    "appStoreID": "502725173",
+    "title": "Weekend Read",
+    "animation_name": "WeekendPageRead",
+    "categories": ["Content", "Slide", "Tracking", "UI Elements"],
+    "tags": ["page slider"]
+  }, {
+    "appStoreID": "502725173",
+    "title": "Weekend Read",
+    "animation_name": "WeekendQuickTour",
+    "categories": ["Arc", "Blur", "Snap", "Wiggle"],
+    "tags": ["dip transition", "tutorial"]
+  }, {
+    "appStoreID": "814321358",
+    "title": "Flight",
+    "animation_name": "FlightNew",
+    "categories": ["Drop", "Ease", "Illustration", "Infographics", "Slide", "Transitions"],
+    "tags": ["flight app", "video bg"]
+  }, {
+    "appStoreID": "814321358",
+    "title": "Flight",
+    "animation_name": "FlightTrans",
+    "categories": ["Content", "Ease", "Infographics", "Parallax", "Slide", "Tracking"],
+    "tags": ["flight", "screen transition"]
+  }, {
+    "appStoreID": "814321358",
+    "title": "Flight",
+    "animation_name": "FlightSwipe",
+    "categories": ["Content", "Ease", "Infographics", "Parallax", "Slide", "Tracking"],
+    "tags": ["flight app", "infographics"]
+  }, {
+    "appStoreID": "785128002",
+    "title": "Steller",
+    "animation_name": "StellerAdd",
+    "categories": ["Content", "Scale", "Slide", "Spin", "Transitions", "UI Elements"],
+    "tags": ["photo chooser", "scale"]
+  }, {
+    "appStoreID": "785128002",
+    "title": "Steller",
+    "animation_name": "StellerFlip",
+    "categories": ["Content", "Flip", "Tracking", "Transitions"],
+    "tags": ["flip animation", "video"]
+  }, {
+    "appStoreID": "785128002",
+    "title": "Steller",
+    "animation_name": "StellerHeader",
+    "categories": ["Fade", "Pull to Refresh", "Scale", "Slide", "Tracking", "UI Elements"],
+    "tags": ["photo header", "reload"]
+  }, {
+    "appStoreID": "728293409",
+    "title": "Monument Valley",
+    "animation_name": "MonumentVLevel1",
+    "categories": ["Content", "Fade", "Illustration", "Pulse", "Ripple", "Transitions", "Zoom"],
+    "tags": ["game", "ida", "illustration"]
+  }, {
+    "appStoreID": "728293409",
+    "title": "Monument Valley",
+    "animation_name": "MonumentVLevels",
+    "categories": ["Ease", "Illustration", "Morph", "Navigation", "Orbit", "Spin", "Transitions"],
+    "tags": ["game", "ida", "taj mahal"]
+  }, {
+    "appStoreID": "728293409",
+    "title": "Monument Valley",
+    "animation_name": "MonumentVIntro",
+    "categories": ["Flip", "Illustration", "Infographics", "Intro", "Morph", "Perspective", "Slide"],
+    "tags": ["game", "ida", "text transform"]
+  }, {
+    "appStoreID": "328407587",
+    "title": "Flickr",
+    "animation_name": "FlickrPTR",
+    "categories": ["Content", "Drift", "Ease", "Pull to Refresh", "Slide", "Snap", "UI Elements", "Wiggle"],
+    "tags": ["camera", "photo app", "pull to refresh"]
+  }, {
+    "appStoreID": "328407587",
+    "title": "Flickr",
+    "animation_name": "FlickrFlick",
+    "categories": ["Bounce", "Interactive", "Orbit", "Slide", "Snap", "Transitions", "UI Elements"],
+    "tags": ["flick", "flick to go back"]
+  }, {
+    "appStoreID": "328407587",
+    "title": "Flickr",
+    "animation_name": "FlickrBird",
+    "categories": ["Arc", "Bounce", "Content", "Drift", "Interactive", "Snap", "UI Elements", "Wiggle"],
+    "tags": ["camera", "photo", "swipe"]
+  }, {
+    "appStoreID": "447188370",
+    "title": "Snapchat",
+    "animation_name": "SnapChatSlide",
+    "categories": ["Illustration", "Slide", "Tracking"],
+    "tags": ["chat", "illustrations"]
+  }, {
+    "appStoreID": "447188370",
+    "title": "Snapchat",
+    "animation_name": "SnapChatDance",
+    "categories": ["Illustration", "Loading", "Pull to Refresh", "Wiggle"],
+    "tags": ["dancing ghost"]
+  }, {
+    "appStoreID": "447188370",
+    "title": "Snapchat",
+    "animation_name": "SnapChatBBall",
+    "categories": ["Bounce", "Collide", "Content", "Illustration", "Tracking"],
+    "tags": ["ghost bball"]
+  }, {
+    "appStoreID": "305343404",
+    "title": "Tumblr",
+    "animation_name": "TumblrLoad",
+    "categories": ["Arc", "Bounce", "Fade", "Illustration", "Instructional", "Intro", "Orbit", "Scale"],
+    "tags": ["prompting", "teaching"]
+  }, {
+    "appStoreID": "333903271",
+    "title": "Twitter",
+    "animation_name": "TwitterZoom",
+    "categories": ["Anticipate", "Bounce", "Illustration", "Intro", "Loading", "Scale", "Zoom"],
+    "tags": ["bird", "zoom"]
+  }, {
+    "appStoreID": "871299723",
+    "title": "StackExchange",
+    "animation_name": "StackExchangeLogin",
+    "categories": ["Anticipate", "Bounce", "Ease", "Illustration", "Loading", "Pulse", "Transitions"],
+    "tags": ["zooming loading"]
+  }, {
+    "appStoreID": "858355445",
+    "title": "Blixt",
+    "animation_name": "BlixtPost",
+    "categories": ["Blur", "Fade", "Slide", "Transitions", "UI Elements"],
+    "tags": ["compose", "transition"]
+  }, {
+    "appStoreID": "858355445",
+    "title": "Blixt",
+    "animation_name": "BlixtProfile",
+    "categories": ["Blur", "Slide", "Tracking", "Transitions", "UI Elements"],
+    "tags": ["following"]
+  }, {
+    "appStoreID": "858355445",
+    "title": "Blixt",
+    "animation_name": "BlixtDetail",
+    "categories": ["Anticipate", "Blur", "Content", "Ease", "Transitions", "UI Elements"],
+    "tags": ["tracking transition"]
+  }, {
+    "appStoreID": "875063456",
+    "title": "Elevate",
+    "animation_name": "ElevateFinish",
+    "categories": ["Arc", "Bounce", "Content", "Illustration", "Infographics", "Orbit", "Pulse", "Slide"],
+    "tags": ["brain training", "confetti"]
+  }, {
+    "appStoreID": "875063456",
+    "title": "Elevate",
+    "animation_name": "ElevateGame",
+    "categories": ["Anticipate", "Bounce", "Content", "Ease", "Illustration", "Interactive", "Pulse", "Scale", "Slide", "Squash", "Zoom"],
+    "tags": ["birds", "brain training", "games"]
+  }, {
+    "appStoreID": "875063456",
+    "title": "Elevate",
+    "animation_name": "ElevateChoose",
+    "categories": ["Anticipate", "Content", "Illustration", "Morph", "Scale", "Transitions", "Zoom"],
+    "tags": ["badges", "brain training", "wipe"]
+  }, {
+    "appStoreID": "580311103",
+    "title": "Twitterrific",
+    "animation_name": "TwitterificPTR",
+    "categories": ["Fade", "Illustration", "Morph", "Pull to Refresh", "Scale", "Spin"],
+    "tags": ["pull to refresh"]
+  }, {
+    "appStoreID": "742305969",
+    "title": "Catena",
+    "animation_name": "CatenaStats",
+    "categories": ["Ease", "Illustration", "Infographics", "Orbit", "Slide"],
+    "tags": ["game", "infographics", "stats"]
+  }, {
+    "appStoreID": "742305969",
+    "title": "Catena",
+    "animation_name": "CatenaGame",
+    "categories": ["Arc", "Fade", "Illustration", "Interactive", "Orbit", "UI Elements"],
+    "tags": ["game", "words"]
+  }, {
+    "appStoreID": "336353151",
+    "title": "SoundCloud",
+    "animation_name": "SoundCloudScroller",
+    "categories": ["Blur", "Content", "Ease", "Infographics", "Slide", "Tracking"],
+    "tags": ["katy perry", "music"]
+  }, {
+    "appStoreID": "904209370",
+    "title": "B612",
+    "animation_name": "B612",
+    "categories": ["Anticipate", "Bounce", "Drop", "Ease", "Fade", "Illustration", "Instructional", "Slide", "UI Elements"],
+    "tags": ["b612", "photos", "selfies"]
+  }, {
+    "appStoreID": "387771637",
+    "title": "Nike+ Running",
+    "animation_name": "NikeRun",
+    "categories": ["Illustration", "Infographics", "Orbit", "Perspective", "Scale", "Spin", "Tracking", "Zoom"],
+    "tags": ["fitness", "nike", "running", "zooming"]
+  }, {
+    "appStoreID": "789646743",
+    "title": "Jink",
+    "animation_name": "JinkAdd",
+    "categories": ["Arc", "Orbit", "Scale", "Stretch", "Transitions", "UI Elements"],
+    "tags": ["circle wipe", "spinning plus"]
+  }, {
+    "appStoreID": "789646743",
+    "title": "Jink",
+    "animation_name": "JinkMenu",
+    "categories": ["Fade", "Interactive", "Perspective", "Slide", "Snap", "Transitions", "UI Elements"],
+    "tags": ["maps", "meet up"]
+  }, {
+    "appStoreID": "459590827",
+    "title": "GoGobot",
+    "animation_name": "GoGo",
+    "categories": ["Blur", "Bounce", "Ease", "Loading", "Slide", "Transitions", "UI Elements"],
+    "tags": ["places to go", "travel"]
+  }, {
+    "appStoreID": "834335592",
+    "title": "Yo",
+    "animation_name": "Yo",
+    "categories": ["Content", "Drop", "Fade", "Interactive", "Slide", "Snap"],
+    "tags": ["simple", "stripes", "yo"]
+  }, {
+    "appStoreID": "740146917",
+    "title": "Hyperlapse",
+    "animation_name": "Hyperlapse",
+    "categories": ["Arc", "Ease", "Intro", "Loading", "Orbit", "Spin"],
+    "tags": ["acceleration", "loading", "spinning"]
+  }, {
+    "appStoreID": "828031130",
+    "title": "UP Coffee",
+    "animation_name": "UpCoffee",
+    "categories": ["Bounce", "Collide", "Content", "Drop", "Ease", "Illustration", "Infographics", "Pulse", "Ripple", "Slide", "Wiggle"],
+    "tags": ["coffee", "illustration", "interactive"]
+  }, {
+    "appStoreID": "905060486",
+    "title": "Inbox",
+    "animation_name": "InboxGoogle",
+    "categories": ["Fade", "Interactive", "Scale", "Slide", "Tracking", "UI Elements"],
+    "tags": ["email", "swipe to manage", "swipe to snooze"]
+  }, {
+    "appStoreID": "905060486",
+    "title": "Inbox",
+    "animation_name": "Inbox",
+    "categories": ["Fade", "Interactive", "Morph", "Scale", "Slide", "Spin", "UI Elements"],
+    "tags": ["action", "avatars", "icons", "puck"]
+  }, {
+    "appStoreID": "333903271",
+    "title": "Twitter",
+    "animation_name": "TwitterMusic",
+    "categories": ["Content", "Ease", "Flip", "Interactive", "Slide", "Squash", "UI Elements", "Zoom"],
+    "tags": ["cards", "music", "Twitter", "wayne"]
+  }, {
+    "appStoreID": "916240764",
+    "title": "UP",
+    "animation_name": "JawboneProps",
+    "categories": ["Bounce", "Illustration", "Infographics", "Scale", "UI Elements"],
+    "tags": ["fitness tracker", "jawbone", "stickers"]
+  }, {
+    "appStoreID": "916240764",
+    "title": "UP",
+    "animation_name": "JawboneAmazing",
+    "categories": ["Bounce", "Flip", "Navigation", "Pulse", "Transitions", "UI Elements"],
+    "tags": ["flip animation", "puck", "sticker"]
+  }, {
+    "appStoreID": "305343404",
+    "title": "Tumblr",
+    "animation_name": "TumblrMenu2",
+    "categories": ["Bounce", "Ease", "Fade", "Navigation", "Slide", "Transitions", "UI Elements"],
+    "tags": ["menu", "options", "slide"]
+  }, {
+    "appStoreID": "924643029",
+    "title": "Rooms",
+    "animation_name": "RoomsEnter",
+    "categories": ["Anticipate", "Bounce", "Ease", "Navigation", "Scale", "Transitions"],
+    "tags": ["facebook", "rooms", "social", "square posts"]
+  }, {
+    "appStoreID": "924643029",
+    "title": "Rooms",
+    "animation_name": "RoomsNickname",
+    "categories": ["Content", "Drop", "Flip", "Instructional", "Perspective", "Transitions", "Wiggle"],
+    "tags": []
+  }, {
+    "appStoreID": "576502633",
+    "title": "Mailbox",
+    "animation_name": "MailboxSwipe",
+    "categories": ["Fade", "Slide", "Tracking", "Transitions", "UI Elements"],
+    "tags": ["email", "inbox", "mailbox"]
+  }, {
+    "appStoreID": "912487235",
+    "title": "Goji",
+    "animation_name": "GojiTacos",
+    "categories": ["Blur", "Bounce", "Content", "Fade", "Illustration", "Transitions"],
+    "tags": ["keyboard", "location-based"]
+  }, {
+    "appStoreID": "912487235",
+    "title": "Goji",
+    "animation_name": "GojiSwipe",
+    "categories": ["Bounce", "Content", "Drop", "Fade", "Illustration", "Transitions"],
+    "tags": ["keyboard", "location-based", "stickers"]
+  }, {
+    "appStoreID": "912487235",
+    "title": "Goji",
+    "animation_name": "GojiLoadingRedux",
+    "categories": ["Bounce", "Content", "Illustration", "Loading", "Slide"],
+    "tags": ["loading animation", "stickers", "transition"]
+  }, {
+    "appStoreID": "593195406",
+    "title": "Curator",
+    "animation_name": "Curator",
+    "categories": ["Bounce", "Content", "Fade", "Interactive", "Scale", "Transitions", "Zoom"],
+    "tags": ["boards", "grid layout", "pinterest"]
+  }, {
+    "appStoreID": "791297521",
+    "title": "Storehouse",
+    "animation_name": "StorehouseFave",
+    "categories": ["Ease", "Fade", "Interactive", "Morph", "Scale", "Slide", "UI Elements"],
+    "tags": ["fave animation", "filling heart"]
+  }, {
+    "appStoreID": "791297521",
+    "title": "Storehouse",
+    "animation_name": "StorehouseStory",
+    "categories": ["Content", "Fade", "Morph", "Navigation", "Scale", "Transitions"],
+    "tags": ["post", "transition"]
+  }, {
+    "appStoreID": "791297521",
+    "title": "Storehouse",
+    "animation_name": "StorehousePerspectiveTrans",
+    "categories": ["Fade", "Navigation", "Perspective", "Transitions", "UI Elements"],
+    "tags": ["perspective transition"]
+  }, {
+    "appStoreID": "791297521",
+    "title": "Storehouse",
+    "animation_name": "StorehousePTR2",
+    "categories": ["Ease", "Fade", "Pull to Refresh", "Spin", "UI Elements"],
+    "tags": ["pull to refresh animation"]
+  }, {
+    "appStoreID": "333903271",
+    "title": "Twitter",
+    "animation_name": "TwitterFave",
+    "categories": ["Anticipate", "Bounce", "Illustration", "Pulse", "UI Elements"],
+    "tags": ["explosion", "fave animation", "star"]
+  }, {
+    "appStoreID": "605855595",
+    "title": "Keezy",
+    "animation_name": "KeezyMenu",
+    "categories": ["Bounce", "Ease", "Fade", "Interactive", "Orbit", "Scale", "Transitions", "UI Elements"],
+    "tags": ["circle wipe", "music", "play", "sound", "spin"]
+  }, {
+    "appStoreID": "933630069",
+    "title": "Drummer",
+    "animation_name": "DrummerPlay",
+    "categories": ["Anticipate", "Fade", "Interactive", "Pulse", "Scale", "Slide", "UI Elements"],
+    "tags": ["drums", "music", "scale"]
+  }, {
+    "appStoreID": "893994044",
+    "title": "Skype Qik",
+    "animation_name": "SkypeQikMenu",
+    "categories": ["Anticipate", "Arc", "Ease", "Morph", "Ripple", "Squash", "Stretch", "Transitions", "UI Elements"],
+    "tags": ["buttons", "jelly", "menu"]
+  }, {
+    "appStoreID": "948867534",
+    "title": "Timeline",
+    "animation_name": "TimelinesDetail",
+    "categories": ["Bounce", "Content", "Ease", "Parallax", "Slide", "Snap", "Transitions", "UI Elements"],
+    "tags": ["fab", "timeline"]
+  }, {
+    "appStoreID": "948867534",
+    "title": "Timeline",
+    "animation_name": "TryAgain",
+    "categories": ["Arc", "Ease", "Fade", "Navigation", "Perspective", "Transitions"],
+    "tags": ["airbnb menu", "menu"]
+  }]
+}
